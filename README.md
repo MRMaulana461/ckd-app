@@ -17,7 +17,7 @@ shown live in the dashboard's **Cost Formula Reference** panel.
 ## Architecture
 
 ```
-Population CSV ──┐
+Population CSV  ──┐
                   ▼
             CKD Risk Model (model.pkl)
                   │
