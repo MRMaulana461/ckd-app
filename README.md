@@ -25,7 +25,7 @@ Population CSV ──┐
          Probability → Stage Proxy (7 stages)
                   │
                   ▼
-         Cost Engine (PDF formula)
+              Cost Engine 
                   │
         ┌─────────┼─────────┐
         ▼                   ▼
