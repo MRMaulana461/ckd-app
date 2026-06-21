@@ -28,10 +28,10 @@ Population CSV ──┐
          Cost Engine (PDF formula)
                   │
         ┌─────────┼─────────┐
-        ▼         ▼         ▼
-   Policy Sim  Single    Intervention
-   (4 scenarios) Patient   Simulator
-        │       Predictor
+        ▼                   ▼
+   Policy Sim              Single    
+   (4 scenarios)           Patient   
+        │                 Predictor
         ▼
   Cost of Inaction Calculator
         │
