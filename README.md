@@ -80,7 +80,7 @@ copy .env.example .env    # Windows
 
 ```env
 HF_API_KEY=hf_your_token_here
-HF_MODEL_ID=mistralai/Mistral-7B-Instruct-v0.3
+HF_MODEL_ID=meta-llama/Llama-3.1-8B-Instruct
 ```
 
 Leave `HF_API_KEY` blank to run without it — the LLM endpoints fall back
