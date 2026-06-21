@@ -4,7 +4,8 @@
 // `data` payload on success and throws an Error (with .field if available)
 // on failure, so calling hooks/components can use plain try/catch.
 
-const API_BASE_URL = import.meta?.env?.VITE_API_BASE_URL || 'http://localhost:5000';
+// SESUDAH
+const API_BASE_URL = 'https://zesty-spirit-production.up.railway.app';
 
 async function request(path, options = {}) {
   let res;
