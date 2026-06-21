@@ -1,0 +1,8 @@
+Place these real files here:
+  model.pkl
+  scaler.pkl
+  label_encoders.pkl
+  target_encoder.pkl
+  feature_columns.pkl
+  numeric_cols.pkl
+  training_dataset.csv
