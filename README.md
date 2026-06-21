@@ -9,8 +9,7 @@ A Chronic Kidney Disease (CKD) decision-support system combining:
 - A Cost of Inaction calculator
 - An optional Hugging Face LLM narrative layer
 
-The cost formula is sourced from `Cost_Formula_CKD_Digital_Twin.pdf` — the
-exact formula, stage cost table, and comorbidity multipliers are also
+the exact formula, stage cost table, and comorbidity multipliers are also
 shown live in the dashboard's **Cost Formula Reference** panel.
 
 ---
