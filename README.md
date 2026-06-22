@@ -51,10 +51,6 @@ ckd-app/
 
 - Python 3.10+
 - Node.js 18+
-- Your trained model artifacts:
-  `model.pkl`, `scaler.pkl`, `label_encoders.pkl`, `target_encoder.pkl`,
-  `feature_columns.pkl`, `numeric_cols.pkl`, `training_dataset.csv`
-
 ---
 
 ## 1. Backend setup
@@ -86,19 +82,6 @@ HF_MODEL_ID=meta-llama/Llama-3.1-8B-Instruct
 Leave `HF_API_KEY` blank to run without it — the LLM endpoints fall back
 to a templated summary built from real numbers instead of failing.
 
-### Add your model artifacts
-
-Place these 7 files into `backend/artifacts/`:
-
-```
-model.pkl
-scaler.pkl
-label_encoders.pkl
-target_encoder.pkl
-feature_columns.pkl
-numeric_cols.pkl
-training_dataset.csv
-```
 
 ### Run it
 
