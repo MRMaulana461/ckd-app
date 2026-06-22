@@ -5,7 +5,6 @@ A Chronic Kidney Disease (CKD) decision-support system combining:
 - A trained CKD risk model (binary classifier: `ckd` / `notckd`)
 - A population-level policy scenario simulator (4 scenarios)
 - A manual single-patient risk & cost predictor
-- A patient-level intervention "what-if" simulator
 - A Cost of Inaction calculator
 - An optional Hugging Face LLM narrative layer
 
