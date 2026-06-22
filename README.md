@@ -154,7 +154,7 @@ active scenario saves (or costs extra) compared to "Do Nothing".
 
 **Cost Formula Reference** — the exact formula and stage cost table used
 for every dollar figure on screen, with notes on what was intentionally
-omitted from the source PDF and why.
+comitted from the source PDF and why.
 
 ---
 
