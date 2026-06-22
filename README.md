@@ -145,10 +145,6 @@ nothing here is a static lookup table.
 **Single Patient Predictor** — enter one patient's clinical values to get
 CKD probability, stage proxy, and annual cost breakdown.
 
-**Patient Intervention Simulator** — same patient form, but lets you toggle
-interventions (control hypertension, control diabetes, improve edema,
-improve BP/urea by 10%) and compares before vs. after.
-
 **Cost of Inaction Calculator** — shows, in dollars/year, how much the
 active scenario saves (or costs extra) compared to "Do Nothing".
 
